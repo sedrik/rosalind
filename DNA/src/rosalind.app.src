@@ -1,0 +1,12 @@
+{application, rosalind,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { rosalind_app, []}},
+  {env, []}
+ ]}.
