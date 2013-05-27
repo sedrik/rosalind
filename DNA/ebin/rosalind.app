@@ -5,4 +5,4 @@
               {applications,[kernel,stdlib]},
               {mod,{rosalind_app,[]}},
               {env,[]},
-              {modules,[dna_count,rosalind_app,rosalind_sup]}]}.
+              {modules,[dna_count,dna_rna,rosalind_app,rosalind_sup]}]}.
